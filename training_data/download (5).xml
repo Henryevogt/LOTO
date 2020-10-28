@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>download (5).jpg</filename>
+	<path>C:\Users\SimWang\Desktop\windows_v1.8.0\data\download (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>232</width>
+		<height>217</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hasp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>44</ymin>
+			<xmax>147</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lock</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>151</ymin>
+			<xmax>121</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

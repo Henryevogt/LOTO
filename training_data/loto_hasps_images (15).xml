@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data</folder>
+	<filename>loto_hasps_images (15).jpg</filename>
+	<path>C:/Users/SimWang/Desktop/windows_v1.8.0/data/loto_hasps_images (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hasp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>19</ymin>
+			<xmax>221</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>120</ymin>
+			<xmax>176</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>120</ymin>
+			<xmax>236</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

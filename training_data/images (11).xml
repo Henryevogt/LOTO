@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>images (11).jpg</filename>
+	<path>C:\Users\SimWang\Desktop\windows_v1.8.0\data\images (11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hasp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>4</ymin>
+			<xmax>211</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

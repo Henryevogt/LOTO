@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Lockout-Safety-Hasp-LS-ALH-25.jpg</filename>
+	<path>C:\Users\SimWang\Desktop\windows_v1.8.0\data\Lockout-Safety-Hasp-LS-ALH-25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hasp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>95</ymin>
+			<xmax>583</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>
